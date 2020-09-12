@@ -103,7 +103,7 @@ ax.hlines(
     linestyles="solid",
     alpha=0.1,
 )
-fig.suptitle("Cargo Transported to Vancouver from Different Regions of Canada, by Tonnages and Mean of Transport")
+fig.suptitle("Cargo Transported to Vancouver from Different Regions of Canada, by Tonnages and Mean of Transport, 2017")
 
 plt.legend(loc=1)
 
@@ -168,7 +168,7 @@ ax.hlines(
     alpha=0.1,
 )
 
-fig.suptitle("Cargo Transported to Montreal from Different Regions of Canada, by Tonnages and Mean of Transport")
+fig.suptitle("Cargo Transported to Montreal from Different Regions of Canada, by Tonnages and Mean of Transport, 2017")
 plt.legend(loc=1)
 
 # %% Prairies products to Van by type - dataframe
